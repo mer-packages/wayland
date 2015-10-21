@@ -1,3 +1,0 @@
-[submodule "wayland"]
-	path = wayland
-	url = git://anongit.freedesktop.org/wayland/wayland
